@@ -11,7 +11,7 @@ Aplicação backend escrita em python para gerenciar músicas.
 
 ### :nut_and_bolt: Tecnologias
 
-Esse projeto foi desenvolvido com a seguinte técnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologias:
 
 - [Python][python]
 - [Django][django]
